@@ -11,7 +11,9 @@
   "version": "1.0.0",
   "description": "A RESTful API using Node.js, Express, and MongoDB with JWT authentication, user registration, login, and profile management.",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
